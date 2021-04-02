@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gloomic
+- 👀 I’m interested in building mini funny games, data processing and reports, WordPress, Git automation.
+- 🌱 I’m currently working on creating games with JavaScript.
+- 📫 How to reach me? Leave a comment on gloomycorner.com/contact/.
